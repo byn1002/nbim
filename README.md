@@ -37,7 +37,7 @@ At the same time, we drew on the COVID Tracker ([https://vac-lshtm.shinyapps.io/
 - **`pic-shiny/`**  
   Stores images generated from the Shiny app, which are included in the **report for explanation and illustration**.
 
-- **`r_project.Rmd`**  
+- **`report.Rmd`**  
   The **main RMarkdown file** used to generate the written report, including both static and interactive content explanations.
 
 - **`report.html`**  
