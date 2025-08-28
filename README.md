@@ -2,6 +2,18 @@
 
 This project provides an interactive and analytical overview of the **Norwegian Government Pension Fund Global** using R and RShiny. It combines dynamic visualizations, maps, and statistical summaries to help users explore the fund’s historical development, asset allocations, and investment strategies.
 
+## Overall Analysis
+
+In our final report file, `report.html`, we made detailed illustration and analysis for nbim data.
+
+## Rshiny Page
+
+Welcome to our Rshiny page: [nbim](https://byn1002.shinyapps.io/nbim/)!
+
+In the website, we used rich interactive charts (mainly powered by [plotly](https://plotly.com/r/)) and maps (powered by [Leaflet](https://rstudio.github.io/leaflet/)) to perform a comprehensive analysis of NBIM data. 
+
+At the same time, we drew on the COVID Tracker ([https://vac-lshtm.shinyapps.io/ncov_tracker/](https://vac-lshtm.shinyapps.io/ncov_tracker/)) to make the web page both rich in content and aesthetically pleasing.
+
 ## Project Structure
 
 - **`nbim/`**  
