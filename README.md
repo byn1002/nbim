@@ -16,6 +16,9 @@ At the same time, we drew on the COVID Tracker ([https://vac-lshtm.shinyapps.io/
 
 ### Main Panel:
 
+- The left part of main panel contains yearly and overall analysis for Norwegian Government Pension Fund Global.
+- The right part of main panel, which illustrates the investment of Norwegian Government Pension Fund Global on a world map, is designed as an interactive map.
+
 <img width="877" height="482" alt="image" src="https://github.com/user-attachments/assets/14a5b9b5-923e-40ba-aa4a-b6ab4aaa2305" />
 
 ### Four Parts:
