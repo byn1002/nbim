@@ -15,7 +15,7 @@ Welcome to our [Rshiny page](https://byn1002.shinyapps.io/nbim/)😊
 
 In the website, we used rich interactive charts (mainly powered by [plotly](https://plotly.com/r/)) and maps (powered by [Leaflet](https://rstudio.github.io/leaflet/)) to perform a comprehensive analysis of NBIM data. 
 
-At the same time, we drew on the COVID Tracker ([https://vac-lshtm.shinyapps.io/ncov_tracker/](https://vac-lshtm.shinyapps.io/ncov_tracker/)) to make the web page both rich in content and aesthetically pleasing.
+At the same time, we drew on the [COVID Tracker](https://vac-lshtm.shinyapps.io/ncov_tracker/) to make the web page both rich in content and aesthetically pleasing.
 
 ### Main Panel:
 
