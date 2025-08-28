@@ -6,6 +6,9 @@ This project provides an interactive and analytical overview of the **Norwegian 
 
 In our final report file, `report.html`, we made detailed illustration and analysis for nbim data.
 
+<img width="877" height="681" alt="image" src="https://github.com/user-attachments/assets/82b742b3-2254-4d98-8796-e83d801f7cfe" />
+
+
 ## Rshiny Page
 
 Welcome to our [Rshiny page](https://byn1002.shinyapps.io/nbim/)😊
