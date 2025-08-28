@@ -14,6 +14,9 @@ In the website, we used rich interactive charts (mainly powered by [plotly](http
 
 At the same time, we drew on the COVID Tracker ([https://vac-lshtm.shinyapps.io/ncov_tracker/](https://vac-lshtm.shinyapps.io/ncov_tracker/)) to make the web page both rich in content and aesthetically pleasing.
 
+<img width="1498" height="813" alt="image" src="https://github.com/user-attachments/assets/14a5b9b5-923e-40ba-aa4a-b6ab4aaa2305" />
+
+
 ## Project Structure
 
 - **`nbim/`**  
