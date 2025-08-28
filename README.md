@@ -16,5 +16,5 @@ This project provides an interactive and analytical overview of the **Norwegian 
 - **`r_project.Rmd`**  
   The **main RMarkdown file** used to generate the written report, including both static and interactive content explanations.
 
-- **`PB22071444_卜一楠_数据分析_shiny_是.html`**  
+- **`report.html`**  
   The **compiled HTML version** of the final report, combining code, figures, and narrative analysis.
