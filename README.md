@@ -20,7 +20,7 @@ At the same time, we drew on the COVID Tracker ([https://vac-lshtm.shinyapps.io/
 
 ### Four Parts:
 
-<img width="877" height="482" alt="image" src="https://github.com/user-attachments/assets/7b9d17a6-dffc-481d-b089-a87d92ffdb80" />
+<img width="877" height="482" alt="image" src="https://github.com/user-attachments/assets/8885d251-fb15-4898-bfc9-cd77757e7459" />
 
 
 ## Project Structure
