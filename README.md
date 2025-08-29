@@ -11,7 +11,7 @@ In our final report file, `report.html`, we made detailed illustration and analy
 
 ## Rshiny Page
 
-Welcome to our [Rshiny page](https://byn1002.shinyapps.io/nbim/)😊
+**Welcome to our [Rshiny page](https://byn1002.shinyapps.io/nbim/)**😊
 
 In the website, we used rich interactive charts (mainly powered by [plotly](https://plotly.com/r/)) and maps (powered by [Leaflet](https://rstudio.github.io/leaflet/)) to perform a comprehensive analysis of NBIM data. 
 
